@@ -17,4 +17,5 @@ For personal use only. Use these files at your own risk.
 ## symlinks used
 ```
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config ~/.config/i3/config
+ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/10-general.conf ~/.config/i3/config.d/10-general.conf
 ```
