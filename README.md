@@ -4,6 +4,16 @@
 **Note:** This is currently heavily in progress.  
 For personal use only. Use these files at your own risk.
 
+## Official Packages
+- i3-gaps
+- i3lock
+- i3status
+- rofi
+- ...
+
+## External Packages
+- ...
+
 ## symlinks used
 ```
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config ~/.config/i3/config
