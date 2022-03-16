@@ -12,6 +12,7 @@ For personal use only. Use these files at your own risk.
 - ...
 
 ## External Packages
+- [nerd-fonts-complete](https://aur.archlinux.org/packages/nerd-fonts-complete) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts.
 - ...
 
 ## symlinks used
