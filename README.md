@@ -7,8 +7,9 @@ For personal use only. Use these files at your own risk.
 ## Official Packages
 - i3-gaps
 - i3lock
-- i3status
+- -i3status-
 - rofi
+- picom compositor for X11
 - ...
 
 ## External Packages
