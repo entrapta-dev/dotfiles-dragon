@@ -10,6 +10,7 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 ### Default Variables
+## Put all declared $variables in all included config files or they will not work!
 # Modifier key. Use Mod1 for Alt and Mod4 for Windows/Meta/Super key.
 set $mod Mod4
 
