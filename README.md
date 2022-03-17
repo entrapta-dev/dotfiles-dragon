@@ -7,7 +7,6 @@ For personal use only. Use these files at your own risk.
 ## Official Packages
 - i3-gaps
 - i3lock
-- -i3status-
 - rofi
 - picom compositor for X11
 - ...
@@ -24,6 +23,7 @@ ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/10-general.conf ~/.config/i3/con
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/60-workspaces.conf ~/.config/i3/config.d/60-workspaces.conf
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/80-keybinds.conf ~/.config/i3/config.d/80-keybinds.conf
 ln -s /mnt/Work/git/dotfiles-dragon/i3status/i3status.conf ~/.config/i3status/i3status.conf
+ln -s /mnt/Work/git/dotfiles-dragon/picom/picom.conf ~/.config/picom/picom.conf
 ln -s /mnt/Work/git/dotfiles-dragon/polybar/config.ini ~/.config/polybar/config.ini
 ln -s /mnt/Work/git/dotfiles-dragon/polybar/launch.sh ~/.config/polybar/launch.sh
 ```
