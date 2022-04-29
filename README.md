@@ -20,6 +20,7 @@ For personal use only. Use these files at your own risk.
 ```
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config ~/.config/i3/config
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/10-general.conf ~/.config/i3/config.d/10-general.conf
+ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/20-autostart.conf ~/.config/i3/config.d/20-autostart.conf
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/60-workspaces.conf ~/.config/i3/config.d/60-workspaces.conf
 ln -s /mnt/Work/git/dotfiles-dragon/i3/config.d/80-keybinds.conf ~/.config/i3/config.d/80-keybinds.conf
 ln -s /mnt/Work/git/dotfiles-dragon/i3status/i3status.conf ~/.config/i3status/i3status.conf
